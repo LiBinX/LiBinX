@@ -29,30 +29,6 @@
 
 ---
 
-## 代表项目
-
-<div align="center">
-  <a href="https://github.com/LiBinX/Breze">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiBinX&repo=Breze&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LiBinX/Breze-Vue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiBinX&repo=Breze-Vue&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LiBinX/Breze-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiBinX&repo=Breze-Portal&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
-## 活动记录
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiBinX&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</p>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LiBinX&style=flat-square&color=38bdf8" alt="访问量统计" />
   <br/>
